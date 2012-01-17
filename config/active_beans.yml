@@ -1,0 +1,6 @@
+development:
+  server: "localhost:11300"
+  
+production:
+  server: "localhost:11300"
+
