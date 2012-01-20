@@ -2,7 +2,7 @@ source 'http://rubygems.org'
 
 gem 'rails', '3.1.3'
 
-gem 'active_beans', :git => "git@github.com/woolf/active_beans.git"
+gem 'active_beans', :git => "git://github.com/woolf/active_beans.git"
 
 # Bundle edge Rails instead:
 # gem 'rails',     :git => 'git://github.com/rails/rails.git'

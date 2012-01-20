@@ -1,6 +1,6 @@
 GIT
-  remote: /home/wolf/work/active_beans
-  revision: 7c82e44fb916bbf35a10ff89917236b64bdc7cbf
+  remote: git://github.com/woolf/active_beans.git
+  revision: 9c3d0c8c6250c793888c0f6120b774bf7a608a60
   specs:
     active_beans (0.0.1)
       beanstalk-client
